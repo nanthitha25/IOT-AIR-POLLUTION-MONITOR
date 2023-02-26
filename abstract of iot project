@@ -1,0 +1,22 @@
+INDRODUCTION:
+              air pollution monitor system is a process that monitor and quality of the air in relation to pollutants and toxins
+PROBLEM:
+            < long term health diseases
+            < lung cancer
+            < respiratory diseases
+            < diseases such as emphysema
+            < cause damage to people's 
+                    * nerves
+                    * brain
+                    * kidneys
+                    * liver & other organs
+COMPONENDS:
+                   < arduino uno
+                   < AQI pm 2.5
+                   < LCD
+                   < connecting wires
+< Techinique used in our project is using pm(particulate matter)
+
+JUSTIFICATION:
+              < on using this air pollution monitor we get to know how much the air is contaminated
+              < by knowing that we can follow the safety measures
